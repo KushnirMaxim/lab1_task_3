@@ -1,0 +1,38 @@
+.box
+{
+    display: inline-block;
+    font-size: 40px;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(197, 195, 195);
+    width: 60px;
+    height: 40px;
+}
+.box2{
+    color: hsl(0, 97%, 34%);
+}
+.box3{
+    color: hsl(0, 97%, 34%);
+}
+.box4{
+    color: hsl(0, 97%, 34%);
+}
+.boox
+{
+    display: inline-block;
+    font-size: 40px;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(197, 195, 195);
+    width: 60px;
+    height: 40px;
+}
+.boox1{
+    color: hsl(0, 97%, 34%);
+}
+.boox4{
+    color: hsl(0, 97%, 34%);
+}
+.boox6{
+    color: hsl(0, 97%, 34%);
+}
